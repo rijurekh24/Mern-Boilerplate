@@ -1,3 +1,6 @@
+## Mern-Boilerplate Installation Guide
+  This repository provides a boilerplate for building a full-stack application using the MERN stack (MongoDB, Express.js, React, and Node.js). Follow these steps to set up the project locally
+
 ## Installation
 
    1. Clone the repository:
