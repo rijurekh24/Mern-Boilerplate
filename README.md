@@ -3,22 +3,22 @@
    1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rijurekh24/Mern-Boilerplate.git
+    git clone https://github.com/rijurekh24/Mern-Boilerplate.git
    cd mern-boilerplate
    ```
    2. Install server dependencies:
 
-  ```bash
-   cd server
-   npm install
-  ```
+   ```bash
+    cd server
+    npm install
+   ```
 
   3. Install client dependencies:
 
-  ```bash
-   cd client
-   npm install
-  ```
+   ```bash
+    cd client
+    npm install
+   ```
 
   4. Create a .env file in the server directory and add your MongoDB connection string:
 
@@ -29,15 +29,15 @@
 
   5. Start the server:
 
-    ```bash
+   ```bash
    cd server
    npm start
-    ```
+   ```
 
   6. Start the client:
 
    ```bash
-    cd client
+   cd client
    npm start
    ```
  
