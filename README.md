@@ -3,7 +3,7 @@
    1. Clone the repository:
 
    ```bash
-    git clone https://github.com/rijurekh24/Mern-Boilerplate.git
+   git clone https://github.com/rijurekh24/Mern-Boilerplate.git
    cd mern-boilerplate
    ```
    2. Install server dependencies:
